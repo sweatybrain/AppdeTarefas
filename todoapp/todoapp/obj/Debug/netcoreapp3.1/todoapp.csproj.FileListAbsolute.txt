@@ -1,0 +1,16 @@
+C:\Users\djkjr\source\repos\todoapp\todoapp\bin\Debug\netcoreapp3.1\todoapp.exe
+C:\Users\djkjr\source\repos\todoapp\todoapp\bin\Debug\netcoreapp3.1\todoapp.deps.json
+C:\Users\djkjr\source\repos\todoapp\todoapp\bin\Debug\netcoreapp3.1\todoapp.runtimeconfig.json
+C:\Users\djkjr\source\repos\todoapp\todoapp\bin\Debug\netcoreapp3.1\todoapp.runtimeconfig.dev.json
+C:\Users\djkjr\source\repos\todoapp\todoapp\bin\Debug\netcoreapp3.1\todoapp.dll
+C:\Users\djkjr\source\repos\todoapp\todoapp\bin\Debug\netcoreapp3.1\todoapp.pdb
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.csproj.AssemblyReference.cache
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.Form1.resources
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.csproj.GenerateResource.cache
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.AssemblyInfoInputs.cache
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.AssemblyInfo.cs
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.csproj.CoreCompileInputs.cache
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.dll
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.pdb
+C:\Users\djkjr\source\repos\todoapp\todoapp\obj\Debug\netcoreapp3.1\todoapp.genruntimeconfig.cache
